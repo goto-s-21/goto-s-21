@@ -1,10 +1,5 @@
 ## Hi there 👋
 
-<!--
-**goto-s-21/goto-s-21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 ## About Me
 
 - 🧑‍🎓 I’m a university student, and I am majoring in chemistry.
@@ -19,4 +14,3 @@ Here are some ideas to get you started:
 - **Languages**: SQL
 
 - **Tools**: VS Code
--->
