@@ -14,3 +14,6 @@
 - **Languages**: SQL
 
 - **Tools**: VS Code
+
+## 📊 GitHub Stats
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=goto-s-21&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
